@@ -1,4 +1,4 @@
-module sm-manager
+module github.com/BreadBomb/
 
 go 1.13
 
