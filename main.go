@@ -1,8 +1,8 @@
 package main
 
 import (
+	"github.com/BreadBomb/sm-manager/model"
 	"net/http"
-	"sm-manager/model"
 
 	"github.com/gin-gonic/gin"
 )

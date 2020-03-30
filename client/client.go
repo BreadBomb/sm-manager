@@ -3,9 +3,9 @@ package client
 import (
 	"encoding/json"
 	"fmt"
+	"github.com/BreadBomb/sm-manager/model"
 	"io/ioutil"
 	"net/http"
-	"sm-manager/model"
 	"strings"
 )
 
